@@ -1,0 +1,5 @@
+*.swp
+*~
+talk.html
+images/generated/
+src/emacs/elpa/

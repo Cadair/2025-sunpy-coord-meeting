@@ -1,0 +1,64 @@
+body {
+    font-family: Lato, Ariel, sans-serif !important;
+}
+
+.reveal {
+    font-size: 130%;
+    overflow-y: scroll;
+    font-family: Lato, Ariel, sans-serif !important;
+}
+
+.reveal section img {
+    border: none;
+    box-shadow: none;
+}
+
+.two-columns {
+	display: flex;
+	width: 100%;
+}
+
+.two-columns > div {
+	width: calc(100% / 2);
+	padding: 1rem;
+}
+
+.three-columns {
+	display: flex;
+	width: 100%;
+}
+
+.three-columns > * {
+	width: calc(100% / 3);
+	padding: 1rem;
+}
+
+.left {
+    width: 49%;
+    float: left;
+}
+
+.right {
+    width: 49%;
+    float: right;
+}
+
+.left-small {
+    width: 32%;
+    float: left;
+}
+
+.right-small {
+    width: 32%;
+    float: right;
+}
+
+.left-large {
+    width: 65%;
+    float: left;
+}
+
+.right-large {
+    width: 65%;
+    float: right;
+}

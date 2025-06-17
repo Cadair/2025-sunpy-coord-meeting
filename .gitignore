@@ -1,5 +1,5 @@
 *.swp
 *~
-talk.html
+*.html
 images/generated/
 src/emacs/elpa/
